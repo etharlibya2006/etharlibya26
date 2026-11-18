@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "app": "Ethar Libya Corporate Portal",
-  "updatedAt": "2026-11-16T21:02:43.311Z",
+  "updatedAt": "2026-11-18T19:08:55.677Z",
   "products": [
     {
       "id": "monalisa-choco-biscuit-dark",
@@ -207,7 +207,7 @@
       "nameEn": "MONALISA Wafers Extra Hazelnut 50g",
       "brand": "MONALISA",
       "category": "wafers",
-      "image": "./assets/products/monalisa_wafer_hazelnut_50g.webp",
+      "image": "./assets/products/monalisa_wafer_hazelnut_50g_v2.webp",
       "weight": "50 جرام (50g e)",
       "weightEn": "50g Net Weight (50g e)",
       "cartonSpec": "كرتون شحن جملة ونقاط بيع خضراء",
@@ -257,7 +257,7 @@
       "nameEn": "MONALISA Ma Bella Chocolate Cake",
       "brand": "MONALISA",
       "category": "cakes",
-      "image": "./assets/products/monalisa_mabella_cake_chocolate.webp",
+      "image": "./assets/products/monalisa_mabella_cake_chocolate_v2.webp",
       "weight": "قطعة كيك مغلفة فردياً",
       "weightEn": "Individually Wrapped Cake",
       "cartonSpec": "علبة عرض كرتونية تجارية أنيقة",
@@ -742,9 +742,9 @@
       "id": "bolanty-chocolate-coconut-bar",
       "nameAr": "بولانتي جوز الهند المغطى بالشوكولاتة (2 × 24 قطعة)",
       "nameEn": "BOLANTY Coconuts Covered With Chocolate (2 X 24 Pcs)",
-      "brand": "BOLANTY",
+      "brand": "Beiruti",
       "category": "confectionery",
-      "image": "./assets/aistudio/ChatGPT_Image_Nov_4__2026__01_28_50_PM-1_f04aa489.webp",
+      "image": "./assets/products/bolanty_coconut_chocolate_v2.webp",
       "weight": "بار جوز هند طبيعي",
       "weightEn": "Natural Coconut Bar",
       "cartonSpec": "صندوق عرض 2 × 24 قطعة (2 X 24 Pcs)",
@@ -1148,7 +1148,7 @@
     }
   ],
   "settings": {
-    "whatsappNumber": "0925062360",
+    "whatsappNumber": "218925062360",
     "phoneDisplay": "092 506 2360",
     "phoneSecondary": "091 325 3515",
     "email": "etharlibya2015@gmail.com",
