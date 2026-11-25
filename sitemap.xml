@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://etharlibya.com.ly/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ar-LY" href="https://etharlibya.com.ly/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://etharlibya.com.ly/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://etharlibya.com.ly/" />
+    <image:image>
+      <image:loc>https://etharlibya.com.ly/logo-512.png</image:loc>
+      <image:title>شركة إيثار ليبيا لاستيراد المواد الغذائية - الشعار الرسمي</image:title>
+      <image:caption>Ethar Libya for Food Import Official Logo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://etharlibya.com.ly/og-logo.png</image:loc>
+      <image:title>Ethar Libya - شركة إيثار ليبيا</image:title>
+    </image:image>
+  </url>
+</urlset>
